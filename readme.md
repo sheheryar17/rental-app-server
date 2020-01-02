@@ -1,3 +1,5 @@
+<h1>About: </h1>
+<p>This is a Node js server for a rental car application which uses express framework</p>
 # How to run
 
 ```
